@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Innocent  
 ### AI Security Engineer • AI Governance Specialist • Secure MLOps Practitioner  
-Des Moines, IA • PhD in Artificial Intelligence (Beginning January 2027)
+Des Moines, IA • MS & BS Cybersecurity & Information Assurance • PhD in Artificial Intelligence (Beginning January 2027)
 
 ---
 
